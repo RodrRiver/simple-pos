@@ -47,21 +47,6 @@
             </div>
         </form>
 
-        <div class="mt-8 p-4 bg-blue-50 rounded-xl border border-blue-100">
-            <p class="text-xs font-medium text-blue-700 mb-2">Credenciales de demostración</p>
-            <div class="grid grid-cols-2 gap-3 text-xs text-blue-600">
-                <div class="bg-white rounded-lg p-2.5 border border-blue-100">
-                    <p class="font-semibold">Admin</p>
-                    <p class="text-blue-500 mt-0.5">admin@simplepos.test</p>
-                    <p class="text-blue-400">password</p>
-                </div>
-                <div class="bg-white rounded-lg p-2.5 border border-blue-100">
-                    <p class="font-semibold">Cajero</p>
-                    <p class="text-blue-500 mt-0.5">cajero@simplepos.test</p>
-                    <p class="text-blue-400">password</p>
-                </div>
-            </div>
-        </div>
     </div>
 
     <p class="text-center text-xs text-gray-400 mt-8">SimplePOS &copy; {{ date('Y') }} &mdash; Open Source</p>
